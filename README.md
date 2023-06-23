@@ -6,7 +6,7 @@ I am a passionate developer with a keen interest in data science. I love working
 
 # Projects
 Here are some of the notable projects I have worked on:
-
+The below projects are avilable in : (https://github.com/Nivaslak/finalCapstone)
 ## Project 1:
 Finance Calculator : This Python script calculates the amount of interest on an investment or the monthly repayment amount for a home loan (bond). It provides options for calculating both simple and compound interest for investments.
 ## Project 2:
